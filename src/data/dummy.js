@@ -979,7 +979,7 @@ export const customersData = [
   {
     CustomerID: 1005,
 
-    CustomerName: 'Michael',
+    CustomerName: 'ayman',
     CustomerEmail: 'michael@gmail.com',
     ProjectName: 'Weekly WP Theme',
     Status: 'Cancel',
